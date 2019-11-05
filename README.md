@@ -13,8 +13,6 @@ Repositório utilizado no  QA Sampa Meeting dia 02/11/2019
  - [Fotos do Workshop - 02/11/2019](https://photos.google.com/album/AF1QipMAua0GozJOjxgMJOuHuZob5FjV5EepChc9rJZf)
 
 ### INSTALAÇÃO
-
-Passo a passo da instalação:
 ## DOCKER
  - [Windows](https://docs.google.com/document/d/1lbNI62P3a6-IjqAqExprpePPfZfWJ63lkICGjuB5gTQ/mobilebasic)
  - [Linux](https://docs.google.com/document/d/1asEW4CdI1W6mfuoBaBU4lArplZiWFx3kPIUaFeRA8Eg/edit)
