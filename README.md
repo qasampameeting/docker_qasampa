@@ -10,7 +10,7 @@ Repositório utilizado no  QA Sampa Meeting dia 02/11/2019
 
 ## CONTEÚDO
  - [Slides da apresentação](https://docs.google.com/presentation/d/1_iNHUnsIsuPSzO8hwjbpf8dhwsRCm_rGYpcXyYkzsGI/edit)
- - [Fotos do Workshop - 02/11/2019](https://photos.google.com/album/AF1QipMAua0GozJOjxgMJOuHuZob5FjV5EepChc9rJZf)
+ - [Fotos do Workshop - 02/11/2019](https://photos.google.com/share/AF1QipO48UXlLI5-D1cscZRxrB4ujPESdX3gDu2eGYgJP5lXbBbYZi_NGnKm3v1nKhnfEQ?key=ZE4xZ3VtZWJnaVRnTkhmZnNFWUZtQnlmZ3RIeFl3)
 
 ## INSTALAÇÃO
 ### DOCKER
