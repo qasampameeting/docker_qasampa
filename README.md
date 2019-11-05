@@ -12,13 +12,13 @@ Repositório utilizado no  QA Sampa Meeting dia 02/11/2019
  - [Slides da apresentação](https://docs.google.com/presentation/d/1_iNHUnsIsuPSzO8hwjbpf8dhwsRCm_rGYpcXyYkzsGI/edit)
  - [Fotos do Workshop - 02/11/2019](https://photos.google.com/album/AF1QipMAua0GozJOjxgMJOuHuZob5FjV5EepChc9rJZf)
 
-### INSTALAÇÃO
-## DOCKER
+## INSTALAÇÃO
+### DOCKER
  - [Windows](https://docs.google.com/document/d/1lbNI62P3a6-IjqAqExprpePPfZfWJ63lkICGjuB5gTQ/mobilebasic)
  - [Linux](https://docs.google.com/document/d/1asEW4CdI1W6mfuoBaBU4lArplZiWFx3kPIUaFeRA8Eg/edit)
  - [Mac](https://docs.google.com/document/d/17pA3Aog_-OaqeReW7FP0kB-3wg05NuE-HINLg5hVWH4/edit)
 
-## Dockercompose
+### Dockercompose
  - [Windows/Linux/Mac](https://docs.docker.com/compose/install/ )
 
 ## Execução do projeto
