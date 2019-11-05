@@ -43,5 +43,6 @@ Comandos docker úteis usados durante o workshop:
  - `docker rmi 66eec732ac0d`
  - ```docker rm `docker ps -a -q` ```
  - `docker run -it debian:testing-slim /bin/bash`
+ - `docker push nafreire/apptest:0.0.1`
 
 [Play with docker (Treinando sem instalar nada)](https://labs.play-with-docker.com/)
